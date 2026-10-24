@@ -131,3 +131,4 @@ dmypy.json
 /figantleaf.py
 /tests/resources/secrets.json
 .DS_Store
+uv.lock
